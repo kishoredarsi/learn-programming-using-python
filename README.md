@@ -27,6 +27,7 @@ This workspace contains a series of exercises organized by day. Each day's folde
   - `exercise1.py`: Write a program that checks if a number is positive, negative, or zero.
   - `exercise2.py`: Write a program to print whether the number is even or odd number.
   - `exercise3.py`: Write a program to print whether the student received A or A+ grade.
+  - `exercise4.py`: Write a program to print the grade for a student score.
 
 - **day5**: Lists and Loops
   - `exercise1.py`: Write a program that prints numbers from 1 to 10 using a for loop.
