@@ -56,6 +56,7 @@ This workspace contains a series of exercises organized by day. Each day's folde
   - `exercise3.py`: Write a program to print LCM (least common multiple) of given two numbers.
   - `exercise4.py`: Write a program to print GCD (greatest common divisor) of given two numbers.
   - `exercise5.py`: Write a program to find a standard deviation of list of integers.
+  - `exercise6.py`: Write a program to calculate the factorial of 5.
 
 - **day9**: Functions
   - `exercise1.py`: Write a function that takes two numbers and returns their sum.
