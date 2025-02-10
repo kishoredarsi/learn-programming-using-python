@@ -41,6 +41,7 @@ This workspace contains a series of exercises organized by day. Each day's folde
   - `exercise3.py`: Write a program to count number of occurrences of letter a in a given sentence.
   - `exercise4.py`: Write a program to count number of occurrences of each vowel in a given sentence.
   - `exercise5.py`: Write a program to count list of odd and even numbers in a given list of numbers.
+  - `exercise6.py`: Write a program to find the multiplication of first 10 integers.
 
 - **day7**: Programming exercises 2
   - `exercise1.py`: Write a program to print increasing sequence of character in each line.
@@ -54,6 +55,7 @@ This workspace contains a series of exercises organized by day. Each day's folde
   - `exercise2.py`: Write a program to print average of given list of numbers.
   - `exercise3.py`: Write a program to print LCM (least common multiple) of given two numbers.
   - `exercise4.py`: Write a program to print GCD (greatest common divisor) of given two numbers.
+  - `exercise5.py`: Write a program to find a standard deviation of list of integers.
 
 - **day9**: Functions
   - `exercise1.py`: Write a function that takes two numbers and returns their sum.
@@ -82,3 +84,7 @@ This workspace contains a series of exercises organized by day. Each day's folde
 3. Follow the instructions provided within each exercise file to complete the tasks.
 
 Happy coding!
+
+
+# References
+[Daily Python Projects](https://dailypythonprojects.substack.com/)
