@@ -1,12 +1,9 @@
-# Exercise 1: Write a class representing a person with attributes for name and age.
+# Exercise 1: Write a program that handles division by zero.
 
-class Person:
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
-
-    def display(self):
-        print(f"Name: {self.name}, Age: {self.age}")
-
-person = Person("Alice", 30)
-person.display()
+try:
+    num1 = float(input("Enter the numerator: "))
+    num2 = float(input("Enter the denominator: "))
+    result = num1 / num2
+    print("Result:", result)
+except ZeroDivisionError:
+    print("Error: Division by zero is not allowed.")

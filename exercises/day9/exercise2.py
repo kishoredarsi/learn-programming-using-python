@@ -1,6 +1,12 @@
-# Exercise 2: Write a function that takes a name and age and prints a message.
+# Exercise 1: Create a dictionary of favorite fruits with their colors and print each fruit with its color.
 
-def greet(name, age):
-    print(f"Hello, {name}! You are {age} years old.")
+fruits = {
+    "Apple": "Red",
+    "Banana": "Yellow",
+    "Cherry": "Red",
+    "Date": "Brown",
+    "Elderberry": "Purple"
+}
 
-greet("Alice", 30)
+for fruit, color in fruits.items():
+    print(f"The color of {fruit} is {color}.")

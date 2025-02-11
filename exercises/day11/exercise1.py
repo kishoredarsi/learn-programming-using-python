@@ -1,12 +1,8 @@
-# Exercise 1: Create a dictionary of favorite fruits with their colors and print each fruit with its color.
+# Exercise 1: Write a program that uses the `math` module to calculate the square root of a number.
 
-fruits = {
-    "Apple": "Red",
-    "Banana": "Yellow",
-    "Cherry": "Red",
-    "Date": "Brown",
-    "Elderberry": "Purple"
-}
+import math
 
-for fruit, color in fruits.items():
-    print(f"The color of {fruit} is {color}.")
+num = float(input("Enter a number: "))
+sqrt_result = math.sqrt(num)
+
+print(f"The square root of {num} is {sqrt_result}.")

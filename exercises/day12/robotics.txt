@@ -1,0 +1,29 @@
+1. **R2-D2** - *Star Wars*
+   - A small, resourceful astromech droid known for its bravery and loyalty.
+
+2. **Optimus Prime** - *Transformers*
+   - The noble leader of the Autobots, known for his strength and wisdom.
+
+3. **Wall-E** - *WALL-E*
+   - A small waste-collecting robot with a big heart, who embarks on an adventure to save Earth.
+
+4. **T-800** - *The Terminator*
+   - A powerful cyborg assassin sent from the future, known for its resilience and strength.
+
+5. **Baymax** - *Big Hero 6*
+   - A lovable healthcare companion robot designed to care for people, known for its gentle nature.
+
+6. **Johnny 5** - *Short Circuit*
+   - A military robot that gains human-like intelligence and emotions after being struck by lightning.
+
+7. **Bumblebee** - *Transformers*
+   - A brave and loyal Autobot scout, known for his ability to transform into a yellow car.
+
+8. **C-3PO** - *Star Wars*
+   - A protocol droid fluent in over six million forms of communication, known for his politeness and worry.
+
+9. **EVE** - *WALL-E*
+   - A sleek and advanced probe robot sent to find signs of life on Earth, known for her determination and strength.
+
+10. **Iron Giant** - *The Iron Giant*
+    - A giant robot with a kind heart, who befriends a young boy and learns about humanity.

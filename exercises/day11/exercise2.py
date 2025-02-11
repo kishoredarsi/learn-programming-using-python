@@ -1,10 +1,11 @@
-# Exercise 2: Write a program that reads from a file and writes to a file.
+# Exercise 2: Write a custom module with a function and import it in another program.
 
-# Write to a file
-with open("output.txt", "w") as file:
-    file.write("Hello, file!")
+# Create a file named `mymodule.py` with the following content:
+# def greet(name):
+#     return f"Hello, {name}!"
 
-# Read from a file
-with open("output.txt", "r") as file:
-    content = file.read()
-    print("File content:", content)
+# In this file, import and use the custom module:
+import mymodule
+
+message = mymodule.greet("Alice")
+print(message)

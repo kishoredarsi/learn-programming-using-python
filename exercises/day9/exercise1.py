@@ -1,7 +1,9 @@
-# Exercise 1: Write a function that takes two numbers and returns their sum.
+# Exercise1: Write a program to create a dictionary and store weekday as key and day as the value.
 
-def add_numbers(num1, num2):
-    return num1 + num2
+# Create a dictionary
+# Hint: dictionary = {key: value}
+# Store the weekdays as key and day as value
+# Print the dictionary
 
-result = add_numbers(10, 20)
-print("Sum:", result)
+# Create variable with a weekday
+# Print the day of the week using the dictionary

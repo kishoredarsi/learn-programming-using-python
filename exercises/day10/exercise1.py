@@ -1,8 +1,7 @@
-# Exercise 1: Write a program that uses the `math` module to calculate the square root of a number.
+# Exercise 1: Write a function that takes two numbers and returns their sum.
 
-import math
+def add_numbers(num1, num2):
+    return num1 + num2
 
-num = float(input("Enter a number: "))
-sqrt_result = math.sqrt(num)
-
-print(f"The square root of {num} is {sqrt_result}.")
+result = add_numbers(10, 20)
+print("Sum:", result)
