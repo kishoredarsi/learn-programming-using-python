@@ -60,23 +60,30 @@ This workspace contains a series of exercises organized by day. Each day's folde
   - `exercise5.py`: Write a program to find a standard deviation of list of integers.
   - `exercise6.py`: Write a program to calculate the factorial of 5.
 
-- **day9**: Functions
+- **day9**: Dictionaries
+  - `exercise1.py`: Write a program to create a dictionary and store weekday as key and day as the value.
+  - `exercise2.py`: Create a dictionary of favorite fruits with their colors and print each fruit with its color.
+  - `exercise3.py`: Create a dictionary of months with their numbers and print find the number for May.
+  - `exercise4.py`: Create a dictionary of items and their prices, and then add a new key and value to the dictionary.
+  - `exercise5.py`: Create a dictionary of items and their prices, and find a specific item from the dictionary.
+
+- **day10**: Functions
   - `exercise1.py`: Write a function that takes two numbers and returns their sum.
   - `exercise2.py`: Write a function that takes a name and age and prints a message.
 
-- **day10**: Modules
+- **day11**: Modules
   - `exercise1.py`: Write a program that uses the `math` module to calculate the square root of a number.
   - `exercise2.py`: Write a custom module with a function and import it in another program.
 
-- **day11**: Dictionaries and File I/O
-  - `exercise1.py`: Create a dictionary of favorite fruits with their colors and print each fruit with its color.
-  - `exercise2.py`: Write a program that reads from a file and writes to a file.
+- **day12**: File I/O
+  - `exercise1.py`: Write a program that reads from a file.
+  - `exercise2.py`: Write a program to write to a file.
 
-- **day12**: Exception Handling
+- **day13**: Exception Handling
   - `exercise1.py`: Write a program that handles division by zero.
   - `exercise2.py`: Write a program that handles file not found errors.
 
-- **day13**: Classes and Objects
+- **day14**: Classes and Objects
   - `exercise1.py`: Write a class representing a person with attributes for name and age.
   - `exercise2.py`: Write a class that inherits from another class and adds a new method.
 
@@ -91,3 +98,29 @@ Happy coding!
 
 # References
 [Daily Python Projects](https://dailypythonprojects.substack.com/)
+# TODO: Add exercises for following topics
+- While loops
+- Break and continue
+- Indentation
+- Variable & assignment statements
+- True and False boolean values
+- List comprehension
+- Appending to existing list
+- Find element in a list
+- Remove from the list
+- Dictionary type (key/values)
+- Stacks (last in first out)
+- Queues (first in first out)
+- Linked lists (single and double)
+- Converting strings to numbers
+- Dry run technique
+- Bubble Sort
+- Quick Sort
+- Heap Sort
+- Merge Sort
+- Selection Sort
+- Insertion Sort
+- Radix Sort
+- Counting Sort
+- Shell Sort
+- Searching Algorithms
